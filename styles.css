@@ -14,10 +14,11 @@ body{
 	display:flex;
 	padding:0px 10px;
 	column-gap:3px;
+	justify-content:center;
 }
 .latest-news-section{
-	width:665px;
-	height:120px;
+	width:200px;
+	height:140px;
 	padding:10px;
 	background-color:white;
 	box-sizing:border-box;
